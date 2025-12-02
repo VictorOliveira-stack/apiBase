@@ -1,0 +1,26 @@
+[
+    {
+        "livro": "azul cor do ceu",
+        "valor": 29.00
+    },
+    {
+        "livro": "O livro do xuxu azul",
+        "valor": 29.00
+    },
+    {
+        "livro": "O livro",
+        "valor": 29.00
+    },
+    {
+        "livro": "O mapa",
+        "valor": 30.00
+    },
+    {
+        "livro": "A insurgência",
+        "valor": 30.00
+    },
+    {
+        "livro": "Computador a maquina",
+        "valor": 30.00
+    }
+]
